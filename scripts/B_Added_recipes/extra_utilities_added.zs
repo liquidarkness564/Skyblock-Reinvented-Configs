@@ -1,0 +1,1 @@
+recipes.addShaped(<extrautils2:compresseddirt>, [[<minecraft:dirt>, <minecraft:log:*>, <minecraft:dirt>],[<minecraft:log:*>, <minecraft:dirt>, <minecraft:log:*>], [<minecraft:dirt>, <minecraft:log:*>, <minecraft:dirt>]]);
