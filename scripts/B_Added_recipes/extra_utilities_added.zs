@@ -1,1 +1,2 @@
 recipes.addShaped(<extrautils2:compresseddirt>, [[<minecraft:dirt>, <minecraft:log:*>, <minecraft:dirt>],[<minecraft:log:*>, <minecraft:dirt>, <minecraft:log:*>], [<minecraft:dirt>, <minecraft:log:*>, <minecraft:dirt>]]);
+recipes.addShaped(<extrautils2:machine>, [[<actuallyadditions:item_crystal>, <actuallyadditions:item_crystal>, <actuallyadditions:item_crystal>],[<actuallyadditions:item_crystal:5>, <actuallyadditions:block_misc:9>, <actuallyadditions:item_crystal:5>], [<actuallyadditions:item_crystal>, <actuallyadditions:item_crystal>, <actuallyadditions:item_crystal>]]);
